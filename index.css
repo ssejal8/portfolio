@@ -1,0 +1,38 @@
+img{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius:75px ;
+    /* position: fixed; */
+    padding-left: 30px;
+    top : 30px;
+
+}
+#name{
+    /* position: sticky; */
+    font-style:oblique;
+    font-display: fallback;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(4, 83, 4);
+    padding-left:  20px;
+    
+
+}
+body{
+    background-color: rgb(183, 231, 215);
+}
+#skills{
+   padding-left: 30px;
+    color: rgb(4, 83, 4);
+   
+} 
+#intro {
+    color: rgb(12, 32, 16);
+    height: auto;
+    width: auto;
+    padding-left: 20px;
+}
+#hobbies{
+ padding-bottom: 15px;
+    
+}
